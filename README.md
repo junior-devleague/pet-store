@@ -9,6 +9,7 @@ Please create the following files:
 - index.html
 - styles.css
 - README.md
+
 Create a link tag for your CSS stylesheet in your html document.
 
 ##HTML
