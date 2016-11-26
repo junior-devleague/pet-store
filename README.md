@@ -22,7 +22,7 @@ Make sure all the files are connected! :)
 4. For each pet profile:
   a. Create a Header containing the pets name using a header tag smaller than `h1`.
   b. Create the pets profile photo using a image tag and set the value of the id attribute to `pet-image`.
-  c. Create the description of the pet using either either a paragraph element (p) or a list element (ol/ul + li!).
+  c. Create the description of the pet using either either a paragraph element tag or a list element tag.
 
 *BONUS* Wouldn't it be cool if each profile could make a sound?
 Hint: Use a `audio` tag!
@@ -30,19 +30,19 @@ Hint: Use a `audio` tag!
 ##CSS
 1. Set the background image of the body using the `element` selector.
 
-2. Change the `background-color` of the Header using the `id` selector.
+2. Change the background color of the Header using the `id` selector.
 
 3. Change the styles of the individual pet profiles using the `class` selector.
   a. Ensure all the pet profiles and their content are aligned at the center of their container element.
   b. Ensure all pet profile photos are the same size.
 
 4. Modify your elements with these style attributes:
-  - background-color
-  - color
-  - font-size
-  - font-family
-  - height
-  - text-align
-  - width
+  - `background-color`
+  - `color`
+  - `font-size`
+  - `font-family`
+  - `height`
+  - `text-align`
+  - `width`
 
 *Bonus* Use at least 5 different style attributes that we did not mention!
