@@ -14,26 +14,27 @@ Please create the following files:
 Make sure all the files are connected! :)
 
 ##HTML
-- `header` - This will contain your store name!
-Hint: Please use one of the header tags!
+1. Create a Header containing the name of your pet store using a header tag.
 
-- `all-pets` - This will contain all your pet profiles!
-Hint: Please use a div element!
+2. Create a container for all of your pet profiles using a div tag and set the value of the id attribute to `all-pets`
 
-- `individiual-pet` - This will be a individual pet profile!
-Hint: Please use a div element!
+3. Create an individual pet profile using a div tag and set the value of the class attributes to `individual-pet`. Create at least 5 profiles.
 
-- Within `individual-pet` - This must contain a header element (h6), a image element (img), and either a paragraph element (p) or a list element (ol/ul + li!)
+4. For each pet profile:
+  a. Create a Header containing the pets name using a header tag smaller than `h1`.
+  b. Create the pets profile photo using a image tag.
+  c. Create the description of the pet using either either a paragraph element (p) or a list element (ol/ul + li!).
 
 *BONUS* Wouldn't it be cool if each profile could make a sound?
 Hint: Use a `audio` tag!
 
 ##CSS
-- `body` - Create a background image!
-- Use at least one `element` selector!
-Hint: element { styles:style; }
+1. Set the background image of the body
 
-- Use at least one `class` selector!
+2. Change the style of the Header using the `element` selector.
+
+3. Change the styles of the individual pet profiles using the `class` selector.
+  a. Set the `width` and `height` of each photo
 Hint: .class-name
 
 - Use at least one `id` selector!
@@ -49,6 +50,3 @@ Hint: #id-name
   - width
 
 *Bonus* Use at least 5 different style attributes that we did not mention!
-
-##Javascript
-You will not be using any JS for this project! :)
