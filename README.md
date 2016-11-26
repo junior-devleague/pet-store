@@ -20,8 +20,8 @@ Create a link tag for your CSS stylesheet in your html document.
 
 4. For each pet profile:
   - Create a Header containing the pets name using a **header** tag smaller than **h1**.
-  - Create a profile photo for each pet using a image tag and set the value of the id attribute to `pet-image`.
-  - Create a description for each pet using either a paragraph tag or a list tag.
+  - Create a profile photo for each pet using a **image** tag and set the value of the id attribute to `pet-image`.
+  - Create a description for each pet using either a **paragraph** tag or a **list** tag.
 
 *BONUS* Wouldn't it be cool if each profile could make a sound? Add an audio tag to each pet profile.
 
