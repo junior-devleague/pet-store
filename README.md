@@ -1,31 +1,29 @@
 #Welcome To The Pet Adoption Store!
-You will be creating a website that helps pets find homes!
+You will be creating a web app that helps pets find homes!
 
 ##Before you begin
-Please create a mockup of your website for us to approve :)
+Please create a mockup of your website for an instructor to approve :)
 
-##Initialization
+##Set-up your files
 Please create the following files:
 - index.html
 - styles.css
 - README.md
-
-Make sure all the files are connected! :)
+Create a link tag for your CSS stylesheet in your html document.
 
 ##HTML
-1. Create a Header containing the name of your pet store using a header tag.
+1. Create a header containing the name of your pet store using a **header** tag.
 
-2. Create a container for all of your pet profiles using a div tag and set the value of the id attribute to `all-pets`
+2. Create a container for all of your pet profiles using a **div** tag and set the value of the id attribute to `all-pets`
 
-3. Create an individual pet profile using a div tag and set the value of the class attributes to `individual-pet`. Create at least 5 profiles.
+3. Create at least 5 individual pet profiles using a **div** tag and set the value of the class attribute to `individual-pet` for each profile.
 
 4. For each pet profile:
-  a. Create a Header containing the pets name using a header tag smaller than `h1`.
-  b. Create the pets profile photo using a image tag and set the value of the id attribute to `pet-image`.
-  c. Create the description of the pet using either either a paragraph element tag or a list element tag.
+  - Create a Header containing the pets name using a **header** tag smaller than **h1**.
+  - Create a profile photo for each pet using a image tag and set the value of the id attribute to `pet-image`.
+  - Create a description for each pet using either a paragraph tag or a list tag.
 
-*BONUS* Wouldn't it be cool if each profile could make a sound?
-Hint: Use a `audio` tag!
+*BONUS* Wouldn't it be cool if each profile could make a sound? Add an audio tag to each pet profile.
 
 ##CSS
 1. Set the background image of the body using the `element` selector.
@@ -33,8 +31,8 @@ Hint: Use a `audio` tag!
 2. Change the background color of the Header using the `id` selector.
 
 3. Change the styles of the individual pet profiles using the `class` selector.
-  a. Ensure all the pet profiles and their content are aligned at the center of their container element.
-  b. Ensure all pet profile photos are the same size.
+  - Align all the pet profiles and their content to the center of their container element.
+  - Set all pet profile photos to the same size.
 
 4. Modify your elements with these style attributes:
   - `background-color`
@@ -45,4 +43,4 @@ Hint: Use a `audio` tag!
   - `text-align`
   - `width`
 
-*Bonus* Use at least 5 different style attributes that we did not mention!
+*BONUS* Use at least 5 different style attributes that we did not mention!
