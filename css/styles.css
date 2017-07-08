@@ -1,0 +1,45 @@
+body {
+  background-image: url('http://5dwallpaper.com/wp-content/uploads/2016/08/polka-dot-wallpaper4-600x450.jpg');
+}
+
+#header {
+  background-color: #FFB6C1;
+}
+
+h1 {
+  text-align: center;
+}
+
+h6 {
+  margin: 0px;
+  text-align: center;
+  color: purple;
+}
+
+p {
+  margin: 0px;
+  font-size: 10px;
+}
+
+.individual-pet {
+  margin-top: 5px;
+  text-align: center;
+}
+
+ol {
+  font-size: 10px;
+}
+
+.all-pets {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  vertical-align: middle;
+}
+
+.pet-image {
+  background: tomato;
+  padding: 5px;
+  width: 50px;
+  height: 50px;
+}

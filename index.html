@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Pet Store!</title>
+  <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+</head>
+<body>
+  <div id="header">
+    <h1>Cats and Cupcakes!</h1>
+  </div>
+  <div class="all-pets">
+    <div class="individual-pet">
+      <h6>Sprinkles</h6>
+      <img src="http://orig01.deviantart.net/0d21/f/2012/042/7/2/72ba3ea431a5e2085c4a25a9a33aa58c-d4bsj7z.png" class="pet-image">
+      </img>
+      <p>I'm actually allergic to sugar...</p>
+    </div>
+    <div class="individual-pet">
+      <h6>Happy</h6>
+      <img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=135446336" class="pet-image">
+      </img>
+      <p>I'M SO HAPPPPY!!</p>
+    </div>
+    <div class="individual-pet">
+      <h6>Neko</h6>
+      <img src="http://www.gifwave.com/media/2715_kawaii-kitty-pastel-cupcake-chibi-art_200s.gif" class="pet-image" onclick="document.getElementById('sad-cat').play()">
+      </img>
+      <ol>
+        <li>First, I need to be fed</li>
+        <li>Second, I need to be scratched</li>
+        <li>Then, I will be happy</li>
+      </ol>
+      <audio id="sad-cat">
+        <source src="audio/Sad-cat.mp3" type="audio/mpeg"/>
+      </audio>
+    </div>
+    <div class="individual-pet">
+      <h6>Pusheen</h6>
+      <img src="https://s-media-cache-ak0.pinimg.com/564x/eb/59/89/eb59899ad325282ffaf009f418b9c9b8.jpg" class="pet-image" onclick="document.getElementById('2nd-cat').play()">
+      </img>
+      <p>I am cat and I loveeeee to eat!</p>
+      <audio id="2nd-cat">
+        <source src="audio/Cute-kitty-meowing.mp3" type="audio/mpeg"/>
+      </audio>
+    </div>
+    <div class="individual-pet">
+      <h6>All Da Cats</h6>
+      <img src="http://orig11.deviantart.net/cb55/f/2010/092/8/5/8592181f92739fe1a848828b6dea4389.jpg" class="pet-image" onclick="document.getElementById('3rd-cat').play()">
+      </img>
+      <p>We are cats and we're so sweet!</p>
+      <audio id="3rd-cat">
+        <source src="audio/Cats-meowing.mp3" type="audio/mpeg"/>
+      </audio>
+    </div>
+
+  </div>
+</body>
+</html>
