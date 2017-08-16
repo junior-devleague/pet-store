@@ -20,10 +20,10 @@ Create a link tag for your CSS stylesheet in your html document.
 3. Create at least 5 individual pet profiles using a **div** tag and set the value of the class attribute to `individual-pet` for each profile.
 
 4. For each pet profile:
-  - Create a Header containing the pets name using a **header** tag smaller than **h1**.
-  -Find five images of your pets on the internet.
-  - Create a profile photo for each pet using a **image** tag and set the value of the source attribute to the image's URL.
-  - Create a description for each pet using either a **paragraph** tag.
+  - Create a Header containing the pet's name using a **header** tag smaller than **h1**.
+  - Find five images of your pets on the internet.
+  - Create a profile photo for each pet using an **image** tag and set the value of the source attribute to the image's URL.
+  - Create a description for each pet using a **paragraph** tag.
 
 *Stretch Goals* Wouldn't it be cool if each profile could make a sound? Add an audio tag to each pet profile.
 
