@@ -1,10 +1,10 @@
-#Welcome To The Pet Adoption Store!
+# Welcome To The Pet Adoption Store!
 You will be creating a web app that helps pets find homes!
 
-##Before you begin
+## Before you begin
 Please create a mockup of your website for an instructor to approve :)
 
-##Set-up your files
+## Set-up your files
 Please create the following files:
 - index.html
 - styles.css
@@ -12,7 +12,7 @@ Please create the following files:
 
 Create a link tag for your CSS stylesheet in your html document.
 
-##HTML
+## HTML
 1. Create a header containing the name of your pet store using a **header** tag.
 
 2. Create a container for all of your pet profiles using a **div** tag and set the value of the id attribute to `all-pets`
@@ -26,7 +26,7 @@ Create a link tag for your CSS stylesheet in your html document.
 
 *BONUS* Wouldn't it be cool if each profile could make a sound? Add an audio tag to each pet profile.
 
-##CSS
+## CSS
 1. Set the background image of the body using the `element` selector.
 
 2. Change the background color of the Header using the `id` selector.
