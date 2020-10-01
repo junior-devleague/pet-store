@@ -46,5 +46,7 @@ Create a link tag for your CSS stylesheet in your html document.
   - `height`
   - `text-align`
   - `width`
+  - `border`
+  
 
 *Stretch Goals* Use at least 5 different style attributes that we did not mention!
