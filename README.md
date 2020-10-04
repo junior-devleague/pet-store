@@ -1,4 +1,5 @@
 # Welcome To The Pet Adoption Store!
+//HTML CSS PROJECTS
 You will be creating a web app that helps pets find homes!
 
 ## Before you begin
