@@ -13,17 +13,21 @@ img{
     height: 60px;
     padding-top: 20px;
 }
-.all-pets{
+#all-pets{
     display: flex;
     justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+    
     
 }
 .pet{
     width: 900px;
+    height: 10px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     flex-direction: row;
-    align-items: center;
+    align-items:flex-start;
 }
 
